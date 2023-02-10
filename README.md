@@ -1,6 +1,6 @@
 # MX-RV2
 
-#INSTALL BASIC
+# INSTALL BASIC
 
 pkg update
 
@@ -22,7 +22,7 @@ pip2 install requests
 
 pip2 install mechanize 
 
-#RUN SCRIPT
+# RUN SCRIPT
 
 rm -rf MX-RV2
 
